@@ -1,4 +1,5 @@
 {
+    "bootstrap-sha": "ffbdc44837bb79ee6f9adc7907d8bb69129e968b",
     "draft": true,
     "release-search-depth": 10,
     "commit-search-depth": 200,
